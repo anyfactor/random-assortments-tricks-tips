@@ -11,5 +11,5 @@ General stuff I found whether I keep forgetting about it or it was just interest
 '{:02d}'.format(now.1)
 > '01'
 '{:02d}'.format(now.11)
-. '11'
+> '11'
 ```
